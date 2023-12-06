@@ -1,0 +1,10 @@
+<svg width="19" height="18" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#lecrncwola)">
+        <path d="M18.5 9a9 9 0 1 0-9 9 9.01 9.01 0 0 0 9-9zM2 9a7.5 7.5 0 1 1 7.5 7.5A7.509 7.509 0 0 1 2 9zm10.06 1.06-3.535 3.534-1.06-1.06L11 9 7.495 5.495l1.06-1.06L12.06 7.94a1.5 1.5 0 0 1 0 2.12z" fill="#fff"/>
+    </g>
+    <defs>
+        <clipPath id="lecrncwola">
+            <path fill="#fff" transform="matrix(-1 0 0 1 18.5 0)" d="M0 0h18v18H0z"/>
+        </clipPath>
+    </defs>
+</svg>
